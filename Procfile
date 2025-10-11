@@ -1,0 +1,1 @@
+worker: python telegram_food_bot.py
